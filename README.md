@@ -1,6 +1,6 @@
 # MODUS — 2D Dungeon Crawler
 
-Awarded "Best Project of the Year." A C++ game built from the 
+ A C++ game built from the 
 ground up with SFML, featuring 4 levels, a custom physics and 
 animation system, and MySQL-backed save persistence.
 
@@ -20,7 +20,7 @@ Source lives in `final task1/`:
 - **Asset tools:** GIMP, Aseprite (50+ custom sprites)
 
 ## Team
-Led a team of 4 — systems design, asset pipeline, integration.
+team of 4 — systems design, asset pipeline, integration.
 
 ## Build
 Open `final task1.sln` in Visual Studio 2022 with SFML installed.
